@@ -2,7 +2,7 @@ public class ClassificacaoDeNotas {
 
     public static void main(String[] args) {
 
-        Double nota = 6.0;
+        double nota = 6.0;
 
         if (nota >= 9 && nota <= 10) {
             System.out.println("Exelente");
