@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class VerificacaoDeAprovacaoEscolar {
 
     public static void main(String[] args) {

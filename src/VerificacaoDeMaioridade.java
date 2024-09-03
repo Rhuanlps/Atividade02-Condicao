@@ -1,7 +1,3 @@
-import org.w3c.dom.ls.LSOutput;
-
-import javax.swing.*;
-
 public class VerificacaoDeMaioridade {
 
     public static void main(String[] args) {

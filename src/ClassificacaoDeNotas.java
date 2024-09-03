@@ -1,7 +1,6 @@
 public class ClassificacaoDeNotas {
 
     public static void main(String[] args) {
-
         double nota = 6.0;
 
         if (nota >= 9 && nota <= 10) {

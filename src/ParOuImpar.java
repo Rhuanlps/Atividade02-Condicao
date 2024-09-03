@@ -1,10 +1,8 @@
-import java.sql.SQLOutput;
-
 public class ParOuImpar {
 
     public static void main(String[] args) {
 
-        int num = 6;
+        int num = 7;
 
         if (num % 2 == 0) {
             System.out.println("O número " + num + " é par.");
